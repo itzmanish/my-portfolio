@@ -22,7 +22,7 @@ module.exports = {
         short_name: `izmanish`,
         start_url: `/`,
         background_color: `#335bdd`,
-        theme_color: `#335bdd`,
+        theme_color: `#1a3899`,
         display: `minimal-ui`,
         icon: `src/images/icons/icon.png`, // This path is relative to the root of the site.
         // icons: [
