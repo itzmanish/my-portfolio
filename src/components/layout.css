@@ -47,6 +47,7 @@ a {
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
+  border-top: 2px solid #335bdd;
 }
 
 .main-nav ul {
