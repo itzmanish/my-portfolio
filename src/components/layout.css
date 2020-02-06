@@ -1,11 +1,10 @@
-@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap");
 @import url('https://fonts.googleapis.com/css?family=Fira+Code&display=swap');
 @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap');
 
 body {
   font-family: "IBM Plex Mono", Arial, Helvetica, sans-serif;
   font-size: 10px;
-  background-color: #fff;
+  background-color: #fdf6e3;
   color: #30343f;
   margin: 0;
 }

@@ -1,0 +1,40 @@
+body.overlay {
+  -webkit-clip-path: circle(0 at calc(100vw - 3em) calc(100vh - 3em));
+          clip-path: circle(0 at calc(100vw - 3em) calc(100vh - 3em));
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+}
+body.dark {
+  color: #fdf6e3;
+  background: #000;
+}
+body.dark.overlay {
+  -webkit-clip-path: circle(calc(100vw + 100vh) at calc(100vw - 3em) calc(100vh - 3em));
+          clip-path: circle(calc(100vw + 100vh) at calc(100vw - 3em) calc(100vh - 3em));
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+body.dark p{
+    color:#fdf6e3;
+}
+
+body.dark a{
+    color: #fff;
+}
+
+.darkmode{
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    font-size: 1.75rem;
+    padding: 1rem;
+    margin: 1px;
+    border-radius: 100%;
+    border-color: #335bdd;
+    box-shadow: 0 0 1rem -0.25rem #335bdd, inset 0 0 1rem -0.75rem #335bdd;
+    color: #335bdd;
+    cursor: pointer;
+    -webkit-transition: .25s -.05s;
+    transition: .25s -.05s;
+}

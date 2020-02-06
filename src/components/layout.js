@@ -9,6 +9,7 @@ import React from "react"
 import PropTypes from "prop-types"
 
 import "./layout.css"
+import "./dark-mode.css"
 import "../assets/font-awesome/css/fontawesome-all.min.css"
 
 
