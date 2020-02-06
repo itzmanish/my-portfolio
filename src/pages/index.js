@@ -13,8 +13,11 @@ const IndexPage = () => (
       <div className="layout">
         <div className="main">
           <h1 className="title">
-            Hi, I am <span className="highlight-text">Manish. </span> Full Stack
-            developer.
+            Hi! <span role="img" aria-label="hello">👋</span>
+            
+             I am <span className="highlight-text">Manish. </span>
+           <br />
+            Full Stack developer.
           </h1>
           <p>
             I am proficient in {}
@@ -38,7 +41,7 @@ const IndexPage = () => (
             </span>
           </p>
           <p style={{ marginTop: "20px" }}>
-            I also do system level programming. Some of languages that i use are
+            I also do system programming. Some of languages that i use are
             Python, Golang, C, C++. <br /> I do like reading books, listining
             Music during work and travelling and learning new languages.
             <br />
@@ -59,6 +62,11 @@ const IndexPage = () => (
               <li>
                 <a href="https://www.instagram.com/izmanish/" target="__blank">
                   <i class="fab fa-instagram"></i>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.twitter.com/_itzmanish/" target="__blank">
+                  <i class="fab fa-twitter"></i>
                 </a>
               </li>
               <li>

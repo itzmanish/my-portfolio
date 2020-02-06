@@ -1,15 +1,22 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Fira+Code&display=swap');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap');
 
 body {
-  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-family: "IBM Plex Mono", Arial, Helvetica, sans-serif;
   font-size: 10px;
   background-color: #fff;
   color: #30343f;
   margin: 0;
 }
+
 a {
   text-decoration: none;
   color: #335bdd;
+}
+
+svg{
+    width:100%;
 }
 
 .container {
@@ -27,14 +34,15 @@ a {
   font-size: 200%;
   display: block;
   position: absolute;
-  top: 30%;
+  top: 25%;
 }
 
 .main .title {
+  font-family: "Fira Code","IBM Plex Mono", Arial, Helvetica, sans-serif;
   display: block;
   font-size: 170%;
   margin: 0 !important;
-  line-height: 20px;
+  line-height: 48px;
 }
 
 .main p {
@@ -47,12 +55,17 @@ a {
   border-top: 2px solid #335bdd;
 }
 
+.logo svg{
+    max-width: 64px;
+}
+
 .main-header .container {
   margin: 0 auto;
   display: flex;
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
+  padding-top:20px;
 }
 
 .main-nav ul {
@@ -159,9 +172,6 @@ nav i {
     top: 20% !important;
     margin: 0 20px;
   }
-  .main .title {
-    line-height: 40px;
-  }
 
   .main p {
     margin-top: 40px;
@@ -178,18 +188,12 @@ nav i {
     top: 20% !important;
     margin: 0 30px;
   }
-  .main .title {
-    line-height: 40px;
-  }
 }
 
 /* smaller than desktop HD */
 @media (max-width: 1023px) {
   .main {
     margin: 0 30px;
-  }
-  .main .title {
-    line-height: 40px;
   }
 }
 

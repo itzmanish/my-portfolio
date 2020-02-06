@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 322.52 158.52"><defs><style>.cls-1{fill:#335bdd;}.cls-1,.cls-2{stroke:#335bdd;stroke-miterlimit:10;stroke-width:10px;}.cls-2{fill:#fff;}</style></defs><title>Asset 2</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls-1" points="96.76 10.78 8.95 153.52 184.57 153.52 96.76 10.78"/><polygon class="cls-2" points="313.57 152.29 225.76 9.54 181.52 81.46 225.09 152.29 313.57 152.29"/><polygon class="cls-2" points="49.47 152.29 137.95 152.29 181.52 81.46 137.28 9.54 49.47 152.29"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 322.52 158.52">
+    <defs>
+        <style>.cls-2{stroke:#335bdd;stroke-miterlimit:10;stroke-width:10px;fill:#fff}</style>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <path stroke="#335bdd" stroke-miterlimit="10" stroke-width="10" fill="#335bdd" d="M96.76 10.78L8.95 153.52h175.62L96.76 10.78z" />
+            <path class="cls-2" d="M313.57 152.29L225.76 9.54l-44.24 71.92 43.57 70.83h88.48zM49.47 152.29h88.48l43.57-70.83-44.24-71.92-87.81 142.75z" />
+        </g>
+    </g>
+</svg>
