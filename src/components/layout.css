@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Fira+Code&display=swap');
-@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Fira+Code&display=swap");
+@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap");
 
 body {
   font-family: "IBM Plex Mono", Arial, Helvetica, sans-serif;
@@ -14,8 +14,8 @@ a {
   color: #335bdd;
 }
 
-svg{
-    width:100%;
+svg {
+  width: 100%;
 }
 
 .container {
@@ -37,7 +37,7 @@ svg{
 }
 
 .main .title {
-  font-family: "Fira Code","IBM Plex Mono", Arial, Helvetica, sans-serif;
+  font-family: "Fira Code", "IBM Plex Mono", Arial, Helvetica, sans-serif;
   display: block;
   font-size: 170%;
   margin: 0 !important;
@@ -45,7 +45,7 @@ svg{
 }
 
 .main p {
-  margin-top: 30px;
+  margin-top: 10px;
   margin-bottom: 0;
   color: rgba(48, 52, 63, 0.801);
 }
@@ -54,8 +54,8 @@ svg{
   border-top: 2px solid #335bdd;
 }
 
-.logo svg{
-    max-width: 64px;
+.logo svg {
+  max-width: 64px;
 }
 
 .main-header .container {
@@ -64,7 +64,7 @@ svg{
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
-  padding-top:20px;
+  padding-top: 20px;
 }
 
 .main-nav ul {
