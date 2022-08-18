@@ -93,10 +93,10 @@ const IndexPage = () => {
                 <span role="img" aria-label="email">
                   📧
                 </span>
-                <a href="mailto:manish@izmanish.online">
+                <a href="mailto:manish@heymanish.com">
                   <span className="highlight-text">
                     {" "}
-                    manish@izmanish.online
+                    manish@heymanish.com
                   </span>
                 </a>
               </p>
