@@ -104,7 +104,7 @@ const IndexPage = () => {
                 <ul className="main-nav-list">
                   <li>
                     <a
-                      href="https://www.instagram.com/izmanish/"
+                      href="https://www.instagram.com/heymanish.ig/"
                       target="__blank"
                     >
                       <i class="fab fa-instagram"></i>
@@ -112,7 +112,7 @@ const IndexPage = () => {
                   </li>
                   <li>
                     <a
-                      href="https://www.twitter.com/itzmanish_/"
+                      href="https://www.twitter.com/heymanish_tw/"
                       target="__blank"
                     >
                       <i class="fab fa-twitter"></i>
