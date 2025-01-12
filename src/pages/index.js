@@ -32,22 +32,20 @@ const IndexPage = () => {
                 </span>
                 I am <span className="highlight-text">Manish </span>
                 <br />
-                Full Stack developer.
+                Software Engineer ❤️ WebRTC.
               </h1>
               {/* <p>
                 I am proficient in {}
                 <span className="highlight-text">
                   <Typed
                     strings={[
-                      "ReactJS",
-                      "GatsbyJS",
-                      "Django",
-                      "Flask",
                       "Go",
+                      "Typescript",
+                      "Javascript",
+                      "Rust",
                       "Python",
                       "Flutter",
                       "C",
-                      "C++",
                     ]}
                     typeSpeed={60}
                     backSpeed={50}
@@ -61,32 +59,26 @@ const IndexPage = () => {
                   {" "}
                   💻
                 </span>{" "}
-                Golang, Python, Javascript, Dart, C, Assembly Language.{" "}
+                Go, Typescript, Rust, Python, C, Assembly Language.{" "}
               </p>
               <p>
                 <span role="img" aria-label="hearts">
                   ❤️
                 </span>{" "}
-                Reading books, Travelling new places (more inclined to nature).
-              </p>
-              <p>
-                <span role="img" aria-label="corn">
-                  🌽
-                </span>{" "}
-                Django, Flask, ExpressJS, ReactJS, GatsbyJS, Flutter.{" "}
+                Reading books, Travelling to new places (more inclined to nature).
               </p>
               <p>
                 <span role="img" aria-label="triangular-rular">
                   📐
                 </span>{" "}
-                Microservice architecture, Distributed systems design.
+                Microservices, Distributed systems design.
               </p>
               <p>
                 <span role="img" aria-label="dart">
                   🎯
                 </span>{" "}
                 Internet Of Things, Embedded Programming, Artificial
-                Intellingence.
+                Intelligence.
               </p>
 
               <p style={{ marginTop: "40px" }}>
@@ -104,15 +96,7 @@ const IndexPage = () => {
                 <ul className="main-nav-list">
                   <li>
                     <a
-                      href="https://www.instagram.com/heymanish.ig/"
-                      target="__blank"
-                    >
-                      <i class="fab fa-instagram"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.twitter.com/heymanish_tw/"
+                      href="https://www.twitter.com/bemanishh/"
                       target="__blank"
                     >
                       <i class="fab fa-twitter"></i>
