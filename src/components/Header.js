@@ -14,12 +14,12 @@ const Header = () => {
         <nav className="main-nav m-hidden">
           <ul className="main-nav-list">
             <li>
-              <a href="https://www.instagram.com/izmanish/" target="__blank">
+              <a href="https://www.instagram.com/whotomato/" target="__blank">
                 <i class="fab fa-instagram"></i>
               </a>
             </li>
             <li>
-              <a href="https://www.twitter.com/itzmanish_/" target="__blank">
+              <a href="https://www.twitter.com/bemanishh/" target="__blank">
                 <i class="fab fa-twitter"></i>
               </a>
             </li>
